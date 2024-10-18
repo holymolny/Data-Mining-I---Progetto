@@ -6,7 +6,7 @@ Progetto realizzato da:
 |--- |--- |--- |
 | Chiara | Baiolo | DS |
 | Mihnea | Molnar | InfoUma |
-| Irene | Molnar | InfoUma|
+| Irene | Poli | InfoUma|
 
 Report: https://www.overleaf.com/5875445685trbxvnmngjnf#4abc5c
 
