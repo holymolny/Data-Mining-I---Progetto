@@ -11,6 +11,6 @@ Progetto realizzato da:
 Report: https://www.overleaf.com/5875445685trbxvnmngjnf#4abc5c
 
 #### ATTENZIONE:
-Occhio a fare commit pazze su github che appena fate qualcosa viene sovrascritto! <\b>
-code Data-Mining-I---Progetto
+Occhio a fare commit pazze su github che appena fate qualcosa viene sovrascritto!
+[code Data-Mining-I---Progetto]
 
