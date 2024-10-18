@@ -9,7 +9,8 @@ Progetto realizzato da:
 | Irene | Molnar | InfoUma|
 
 Report: https://www.overleaf.com/5875445685trbxvnmngjnf#4abc5c
-Comando bash: code Data-Mining-I---Progetto
+
 #### ATTENZIONE:
 Occhio a fare commit pazze su github che appena fate qualcosa viene sovrascritto!
+code Data-Mining-I---Progetto
 
