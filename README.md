@@ -6,7 +6,7 @@ Progetto realizzato da:
 |--- |--- |--- |
 | Chiara | Baiolo | DS |
 | Mihnea | Molnar | InfoUma |
-| Irene | Poli | InfoUma|
+| Irene (il perito di Santo Moro)| Franko  | InfoUma|
 
 Report: https://www.overleaf.com/5875445685trbxvnmngjnf#4abc5c
 
